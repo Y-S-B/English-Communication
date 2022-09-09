@@ -14,7 +14,7 @@ Culture & History
 ---
 
 Thank you!<!-- .element: class="r-fit-text" -->  
-<div style="font-size: 50px;">
+<div style="font-size: 30px;">
     Images & Videos are from 
-    <a href="https://www.bahamas.com/">here</a>
+    <a href="https://www.bahamas.com/">The Official Website of The Bahamas</a>
 </div>
