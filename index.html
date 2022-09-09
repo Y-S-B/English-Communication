@@ -21,11 +21,10 @@
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section data-background-video="https://e291f1206726d700191b-d0cedd1cc05016668dc83bc2742129e5.ssl.cf1.rackcdn.com/windsong/media/bmot-homepage-video-web-5fbc054c4252e.mp4">
-				<h2>THE BAHAMAS</h2>
+		  	<section data-background-video="https://e291f1206726d700191b-d0cedd1cc05016668dc83bc2742129e5.ssl.cf1.rackcdn.com/windsong/media/bmot-homepage-video-web-5fbc054c4252e.mp4">
+				<h2 class="r-fit-text">THE<br>BAHAMAS</h2>
 			</section>
-			<section data-markdown="index.md" data-separator="\n---\n" data-separator-vertical="\n--\n"
-				data-transition="zoom" data-separator-notes="n:">
+			<section data-markdown="index.md" data-separator="^\n---\n" data-separator-vertical="^\n--\n" data-separator-notes="^n:" data-transition="slide">
 			</section>
 		</div>
 	</div>
@@ -39,8 +38,9 @@
 		// - https://revealjs.com/initialization/
 		// - https://revealjs.com/config/
 		Reveal.initialize({
-			hash: true,
+		        hash: true,
 			plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+                        backgroundTransition: 'fade'
 		});
 	</script>
 </body>

@@ -1,9 +1,17 @@
-OMG
+Facts & numbers
 <!-- .element: class="r-fit-text" -->
- 
+
 ---
 
-Geography  
-that's beautiful
+Geography & Nature
 <!-- .element: class="r-fit-text" -->
- 
+
+---
+
+Culture & History
+<!-- .element: class="r-fit-text" -->
+
+---
+
+Thank you!
+<!-- .element: class="r-fit-text" -->
