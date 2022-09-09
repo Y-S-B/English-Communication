@@ -13,5 +13,8 @@ Culture & History
 
 ---
 
-Thank you!
-<!-- .element: class="r-fit-text" -->
+Thank you!<!-- .element: class="r-fit-text" -->  
+<div style="font-size: 50px;">
+    Images & Videos are from 
+    <a href="https://www.bahamas.com/">here</a>
+</div>
