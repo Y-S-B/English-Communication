@@ -5,6 +5,17 @@ Facts & numbers
 
 Geography & Nature
 <!-- .element: class="r-fit-text" -->
+n: I'll give you pieces of information related to geography and nature.
+
+--
+
+image
+n:  Pink Sand Beach is on Eleuthera Island. As the name suggests, its sand is pink. The view makes you stunned, I bet.
+
+--
+
+image
+n:  Next, I'll explain the swimming pigs. They swim in the sea of the Exuma Islands. You can enjoy swimming with them and feeding them.
 
 ---
 
